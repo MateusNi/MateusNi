@@ -5,7 +5,7 @@
 - 🌱 Estudando JavaScript
 - 😄 Ele/Dele
 - Conheça mais sobre minhas qualificações, click aqui ->
-            <a href="https://github.com/MateusNi/Trybe"><img align="center" alt="repo-trybe" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
+            <a href="https://github.com/MateusNi/Trybe"><img align="center" alt="repo-trybe" height="20" width="65" src="./trybe_logo.png" alt="logo Trybe"></a>
             
           
 
