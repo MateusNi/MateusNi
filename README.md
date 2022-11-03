@@ -1,10 +1,9 @@
-### Olá, eu sou o Mateus Nigro
+###  <h1> Olá, me chamo Mateus Nigro </h1>
 
 
-- 🔭 Atualmente não estou trabalhando, mas procuro uma vaga como dev junior
-- 🌱 Estudando JavaScript
-- 😄 Ele/Dele
-- Conheça mais sobre minhas qualificações, click aqui ->
+- <spam> 🌱 Desenvolvedor Web! </spam>
+- <spam> 🔭 Atualmente não estou trabalhando, mas procuro uma vaga como dev. </spam>
+- <spam> Conheça mais sobre minhas qualificações, click aqui -> </spam>
             <a href="https://github.com/MateusNi/Trybe"><img align="center" alt="repo-trybe" height="20" width="65" src="./trybe_logo.png" alt="logo Trybe"></a>
             
           
